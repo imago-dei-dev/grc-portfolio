@@ -34,9 +34,9 @@ My 13 years in trucking weren't just driving. They were managing compliance unde
 
 ## Links
 
-- Portfolio Site: [URL]
-- LinkedIn: [URL]
+- Portfolio Site: [Imago-Dei.dev](https://imago-dei.dev)
+- LinkedIn: [Brandon Schuerenberg](https://imago-dei.dev)
 
 ---
 
-*All artifacts are original work created as part of a structured 8-week sprint. Full methodology and rationale available in each folder.*
+*All artifacts are original work created as part of a structured 8-week program. Full methodology and rationale available in each folder.*
