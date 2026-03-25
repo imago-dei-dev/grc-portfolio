@@ -1,3 +1,5 @@
+# System Description
+
 **System Name:** Logistics Tracking System (LTS)
 
 **System Purpose:** Provides real-time tracking and documentation of high-value assets in transit using AWS cloud services with redundant storage and automated audit trails.
