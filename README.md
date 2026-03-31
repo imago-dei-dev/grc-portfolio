@@ -1,42 +1,35 @@
-# GRC Portfolio · Defense Contracting Focus
+# GRC Analyst Portfolio
 
-13 years in trucking managing high-value assets under federal safety regulations. Zero-incident record. Now transitioning to cybersecurity with certifications and this portfolio.
+**Aspiring GRC Analyst** | CompTIA Sec+, CySA+, A+, Net+ | AWS Certified Solutions Architect
 
-## What This Repository Shows
-
-| Artifact | What It Demonstrates |
-|----------|---------------------|
-| [RMF Package](./01-rmf-package/) | NIST 800-53 literacy, control selection, POA&M, CMMC mapping |
-| [Risk Register](./02-risk-register/) | Risk identification, scoring, business impact translation |
-| [Security Policies](./03-security-policies/) | Policy writing, control mapping (NIST 800-53 + CMMC) |
-| [Nessus Summary](./04-nessus-summary/) | Vulnerability interpretation, remediation planning |
-| [Asset Inventory](./05-asset-inventory/) | CUI scoping, asset tracking, data flow documentation |
-
-## Why This Matters for Defense Contracting
-
-Small subcontractors in Huntsville need analysts who can:
-- Produce RMF packages and manage POA&Ms
-- Map controls to CMMC Level 2 (NIST 800-171)
-- Track CUI and document data flows
-- Translate compliance requirements into actionable documentation
-
-This portfolio demonstrates all of the above.
+DOT safety regulation experience in logistics. This portfolio demonstrates NIST 800-53 literacy, risk assessment, policy writing, and cloud compliance.
 
 ## Certifications
 
-- CompTIA: A+, Network+, Security+, CySA+
-- Google Cybersecurity Professional Certificate
-- AWS Solutions Architect Associate (in progress)
+- CompTIA Security+, CySA+, Network+, A+
+- AWS Solutions Architect Associate
 
-## Background Note
+## Artifacts
 
-My 13 years in trucking weren't just driving. They were managing compliance under federal safety regulations, maintaining a zero-incident record, and operating independently with full accountability. That regulatory foundation maps directly to GRC.
+| Artifact | Description |
+|----------|-------------|
+| [RMF Package](./01-rmf-package/) | System description, 5 NIST 800-53 controls with implementation statements, CMMC Level 2 mappings, POA&M, executive summary |
+| [Risk Register](./02-risk-register/) | 15 risks scored (1-5), heat map, treatment plans, HIPAA/GLBA/NIST mappings |
+| [Security Policies](./03-security-policies/) | Incident Response Policy (complete), Acceptable Use Policy outline, control mappings |
+| [Asset Inventory](./04-asset-inventory/) | 20 assets with data types (CUI/ePHI/PII), location, protection status, data flow diagram |
+| [Cloud Compliance](./05-cloud-compliance/) | AWS Trusted Advisor findings, remediation plans, control mappings |
+
+Browse the folders above to view each artifact. Start with `01-rmf-package/`.
+
+## Background
+
+13 years of DOT regulatory compliance in logistics: safety regulations, chain of custody documentation, independent operation with full accountability. This foundation maps directly to GRC and investigation work.
 
 ## Links
 
 - Portfolio Site: [Imago-Dei.dev](https://imago-dei.dev)
-- LinkedIn: [Brandon Schuerenberg](https://imago-dei.dev)
+- LinkedIn: [Brandon Schuerenberg](https://linkedin.com/in/brandon-schuerenberg)
 
 ---
 
-*All artifacts are original work created as part of a structured 8-week program. Full methodology and rationale available in each folder.*
+*All artifacts are original work. Full methodology available in each folder.*
