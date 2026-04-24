@@ -41,7 +41,3 @@ No critical risks. System is not a dumpster fire.
 ## Bottom Line
 
 Fix the credential thing first. Everything else can wait a quarter. System is safe enough to run but has compliance gaps.
-
--- 
-
-Questions? I have the full risk register and heatmap if you want to dig in.
