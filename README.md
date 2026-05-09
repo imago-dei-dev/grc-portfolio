@@ -17,7 +17,7 @@ NIST 800-53 · Risk Assessment · Third-Party Risk (TPRM) · RMF · Cloud Compli
 | Google Cybersecurity Professional | Active |
 | Qualys Vulnerability Management | Active |
 | AWS Certified Cloud Practitioner | Active |
-| AWS SAA | In Progress (Q3 2026) |
+| AWS SAA | In Progress (Q2 2026) |
 
 ---
 
