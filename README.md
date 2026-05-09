@@ -2,7 +2,7 @@
 
 **GRC Analyst** | CompTIA CySA+, Sec+, Net+, A+ | AWS SAA (in progress) | 13 Years DOT Compliance
 
-NIST 800-53, risk assessment, policy writing, and cloud compliance. Portfolio built as part of the GRC to CISO roadmap.
+NIST 800-53, risk assessment, policy writing, and cloud compliance.
 
 ---
 
