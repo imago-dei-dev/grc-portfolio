@@ -1,7 +1,46 @@
-Complete NIST 800-53 RMF Authorization Package for an AWS GovCloud system, including control selection rationale, AWS implementation details (IAM, GuardDuty, CloudTrail, VPC), a risk register with 5x5 scoring, and POA&M tracking. Also includes an in-progress NIST to HIPAA compliance mapping project for healthcare applications.
+# Brandon Schuerenberg
 
-I wrote this with defense sector requirements in mind, but the approach translates directly to commercial GRC frameworks like SOC 2, HIPAA, and ISO 27001.
+GRC Analyst · CySA+ · Google Cybersecurity · Qualys VM
 
-Certifications: CompTIA A+, Net+, Sec+, CySA+, Google Cybersecurity Professional, Qualys Vulnerability Management, AWS Certified Cloud Practitioner
+---
 
-Targeting GRC, Compliance, or Risk Analyst roles. Open to remote work or on-site positions in Nashville, TN or Huntsville, AL.
+I spent 13 years handling manifests, chain-of-custody, and DOT inspections. Zero violations. Now I apply that same forensic eye to NIST frameworks, AWS compliance, and risk registers.
+
+I am looking for a GRC, Compliance, or Risk Analyst role. Open to remote, Nashville, or Huntsville.
+
+---
+
+## RMF Authorization Package
+
+Complete RMF package for a system handling sensitive data in AWS GovCloud.
+
+I selected five NIST 800-53 controls (AC-3, SC-7, AU-2, SI-4, IA-2), documented the AWS implementations, scored twelve risks using a 5x5 matrix, and tracked five findings through a POA&M.
+
+[Full write-up here](projects/rmf-package.md)
+
+Downloads:
+- [RMF Package (PDF)](files/RMF_Package_Redacted.pdf)
+- [Control Selection Rationale (PDF)](files/Control_Selection_Rationale.pdf)
+
+---
+
+## NIST to HIPAA Mapping (In Progress)
+
+Mapping the same five controls to the HIPAA Security Rule. This is a short project to show I can translate frameworks for healthcare roles.
+
+[Project details here](projects/compliance-mapping.md)
+
+---
+
+## Certifications
+
+CompTIA A+, Net+, Sec+, CySA+
+Google Cybersecurity Professional
+Qualys Vulnerability Management
+AWS Certified Cloud Practitioner
+
+---
+
+## Links
+
+[Live Site](https://imago-dei.dev) · [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:brandon@imago-dei.dev)
