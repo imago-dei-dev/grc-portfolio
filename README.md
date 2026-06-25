@@ -52,4 +52,4 @@ AWS Certified Cloud Practitioner
 
 ## Links
 
-[Live Site](https://imago-dei.dev) · [LinkedIn](www.linkedin.com/in/brandon-schuerenberg) · [Email](mailto:brandon@imago-dei.dev)
+[Live Site](https://imago-dei.dev) · [LinkedIn](https://www.linkedin.com/in/brandon-schuerenberg) · [Email](mailto:brandon@imago-dei.dev)
