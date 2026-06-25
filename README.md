@@ -35,8 +35,11 @@ Mapping the same five controls to the HIPAA Security Rule. This is a short proje
 ## Certifications
 
 CompTIA A+, Net+, Sec+, CySA+
+
 Google Cybersecurity Professional
+
 Qualys Vulnerability Management
+
 AWS Certified Cloud Practitioner
 
 ---
