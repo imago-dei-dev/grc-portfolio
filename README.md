@@ -4,7 +4,7 @@ GRC Analyst · CySA+ · Google Cybersecurity · Qualys VM
 
 ---
 
-I spent 13 years handling manifests, chain-of-custody, and DOT inspections. Zero violations. Now I apply that same forensic eye to NIST frameworks, AWS compliance, and risk registers.
+I spent 13 years handling hazmat manifests, chain-of-custody, and DOT inspections. Zero violations. Now I apply that same forensic eye to NIST frameworks, AWS compliance, and risk registers.
 
 I am looking for a GRC, Compliance, or Risk Analyst role. Open to remote, Nashville, or Huntsville.
 
